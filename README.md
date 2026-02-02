@@ -1,6 +1,6 @@
 # Tank Level Control System (Manual & Automatic)
 
-A PLC-based tank level control system developed in **Siemens TIA Portal** for learning purposes.
+A PLC-based tank level control system developed in **Siemens TIA Portal** as part of PLC training and extended with features.
 The system simulates an industrial tank process with **manual and automatic operating modes**, analog signal processing, and HMI visualization.
 A key focus of this project was solving **latency and instability issues** between **Factory I/O** and **TIA Portal** using signal buffering.
 
